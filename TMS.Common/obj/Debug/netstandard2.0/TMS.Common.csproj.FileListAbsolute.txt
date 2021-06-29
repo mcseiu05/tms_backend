@@ -1,0 +1,15 @@
+E:\TMS\TMS\TMS.Common\bin\Debug\netstandard2.0\TMS.Common.deps.json
+E:\TMS\TMS\TMS.Common\bin\Debug\netstandard2.0\TMS.Common.dll
+E:\TMS\TMS\TMS.Common\bin\Debug\netstandard2.0\TMS.Common.pdb
+E:\TMS\TMS\TMS.Common\obj\Debug\netstandard2.0\TMS.Common.AssemblyInfoInputs.cache
+E:\TMS\TMS\TMS.Common\obj\Debug\netstandard2.0\TMS.Common.AssemblyInfo.cs
+E:\TMS\TMS\TMS.Common\obj\Debug\netstandard2.0\TMS.Common.dll
+E:\TMS\TMS\TMS.Common\obj\Debug\netstandard2.0\TMS.Common.pdb
+E:\8.Kazi\TMS\TMS\TMS.Common\bin\Debug\netstandard2.0\TMS.Common.deps.json
+E:\8.Kazi\TMS\TMS\TMS.Common\bin\Debug\netstandard2.0\TMS.Common.dll
+E:\8.Kazi\TMS\TMS\TMS.Common\bin\Debug\netstandard2.0\TMS.Common.pdb
+E:\8.Kazi\TMS\TMS\TMS.Common\obj\Debug\netstandard2.0\TMS.Common.csprojAssemblyReference.cache
+E:\8.Kazi\TMS\TMS\TMS.Common\obj\Debug\netstandard2.0\TMS.Common.AssemblyInfoInputs.cache
+E:\8.Kazi\TMS\TMS\TMS.Common\obj\Debug\netstandard2.0\TMS.Common.AssemblyInfo.cs
+E:\8.Kazi\TMS\TMS\TMS.Common\obj\Debug\netstandard2.0\TMS.Common.dll
+E:\8.Kazi\TMS\TMS\TMS.Common\obj\Debug\netstandard2.0\TMS.Common.pdb
